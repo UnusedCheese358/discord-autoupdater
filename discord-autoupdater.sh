@@ -16,6 +16,10 @@ echo "正在啓動..."
 
 sleep 2
 
+echo "installing dependencies (wget)..."
+echo "正在安裝依賴程序 (wget)..."
+sudo apt install wget
+
 echo "Downloading the new source package file..."
 echo "正在下載新的資源包..."
 

@@ -1,5 +1,7 @@
 This is just an automatic discord updater, hopefully this saves the hassle of updating and upgrading Discord for Linux (.deb)
 
+# THIS IS DESIGNED FOR DEBIAN DERIVERATIVE LINUX ONLY! RED HAT BASED LINUX OSES ARE NOT SUPPORTED IN THIS SCRIPT!
+
 # Steps to use it
 1. clone the repo with
 ```bash
