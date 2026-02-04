@@ -5,7 +5,7 @@ This is just an automatic discord updater, hopefully this saves the hassle of up
 # Steps to use it
 1. clone the repo with
 ```bash
-git clone https://github.com/UnusedCheese358/discord-installer
+git clone https://github.com/UnusedCheese358/discord-updater
 ```
 2. Open the repo
 ```bash
