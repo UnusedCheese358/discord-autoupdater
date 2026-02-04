@@ -7,15 +7,20 @@ This is just an automatic discord updater, hopefully this saves the hassle of up
 ```bash
 git clone https://github.com/UnusedCheese358/discord-installer
 ```
-2. make sure the bash script is executable
+2. Open the repo
+```bash
+cd discord-updater
+```
+
+4. make sure the bash script is executable
 ```bash
 chmod +X discord-autoupdater.sh
 ```
-3. Run the script
+4. Run the script
 ```bash
 ./discord-autoupdater.sh
 ```
 Note that you will be required to provide your administrator (`sudo`) password in order to have the perms to install the package
 
-4. Sit back and let it brew.
-5. Done! Discord should be at its latest version at this point. All the residual files will be removed for you.
+5. Sit back and let it brew.
+6. Done! Discord should be at its latest version at this point. All the residual files will be removed for you.
