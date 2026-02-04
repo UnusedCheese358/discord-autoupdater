@@ -5,11 +5,11 @@ This is just an automatic discord updater, hopefully this saves the hassle of up
 # Steps to use it
 1. clone the repo with
 ```bash
-git clone https://github.com/UnusedCheese358/discord-updater
+git clone https://github.com/UnusedCheese358/discord-autoupdater
 ```
 2. Open the repo
 ```bash
-cd discord-updater
+cd discord-autoupdater
 ```
 
 4. make sure the bash script is executable
