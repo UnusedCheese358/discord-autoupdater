@@ -12,7 +12,7 @@ git clone https://github.com/UnusedCheese358/discord-autoupdater
 cd discord-autoupdater
 ```
 
-4. make sure the bash script is executable
+3. make sure the bash script is executable
 ```bash
 chmod +X discord-autoupdater.sh
 ```
