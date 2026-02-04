@@ -16,5 +16,6 @@ chmod +X discord-autoupdater.sh
 ./discord-autoupdater.sh
 ```
 Note that you will be required to provide your administrator (`sudo`) password in order to have the perms to install the package
+
 4. Sit back and let it brew.
 5. Done! Discord should be at its latest version at this point. All the residual files will be removed for you.
